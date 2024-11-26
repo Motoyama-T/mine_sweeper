@@ -1,1 +1,2 @@
 # mine_sweeper
+ExcelのVBAを勉強したかったので、ほぼ同じ感覚で書けるvbs（vbscript）でマインスイーパーを作ってみました
